@@ -1,0 +1,15 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.bundle
+vendor
+Gemfile.lock
+*.gem
+**/.project
+**/.idea
+**/*.iml
+**/target
+**/.svn
+**/.settings
+**/.classpath
